@@ -1,4 +1,4 @@
-# Marist Quantum Computing Project
+# Maxcut IBM Quantum Lab Resources
 
 __NOTE__: All jupyter notebooks are meant to be run in the IBM Quantum Lab!
 
@@ -15,6 +15,8 @@ The folders have some sample tests which can be used as templates, and some auto
   - sample honeypot data
 
 ## NumPy Eigenoptimizer
+
+__I'm 51% sure this is classical...__
 
   - jupyter notebooks running the numpy eigenoptimizer maxcut algorithm on small sample graphs.
 
