@@ -1,6 +1,6 @@
 # Maxcut IBM Quantum Lab Resources
 
-__NOTE__: All jupyter notebooks are meant to be run in the IBM Quantum Lab!
+__NOTE__: This project is a work in progress. All jupyter notebooks are meant to be run in the IBM Quantum Lab!
 
 Resource Links: [Hive Plot Raw Data](https://maristcollege-my.sharepoint.com/personal/casimer_decusatis_marist_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcasimer%5Fdecusatis%5Fmarist%5Fedu%2FDocuments%2FHoneypot%20data)
 
